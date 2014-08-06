@@ -6,7 +6,9 @@ demo
 # Heading 1
 ## Heading 2
 ### Heading 3
-#### Headign 4
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 ## 하이퍼링크
 [Github - 깃 허브](http://github.com)
